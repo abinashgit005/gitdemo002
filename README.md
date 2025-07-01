@@ -1,6 +1,5 @@
 # gitdemo002
 
-# gitdemo001
 
 ### 1.2.1 Default Internet outbound firewall rules
 
